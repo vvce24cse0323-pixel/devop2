@@ -1,1 +1,1 @@
-print("mysuru 1")
+print("mysuru1")
