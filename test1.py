@@ -1,1 +1,1 @@
-print("css mysuru")
+print("mysuru")
